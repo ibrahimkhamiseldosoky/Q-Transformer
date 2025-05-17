@@ -21,8 +21,8 @@ This project integrates a **parameterized quantum circuit (PQC)** into the self-
 
 | Model                | Final Training Loss | Sample Output                            |
 |---------------------|---------------------|-------------------------------------------|
-| **Quantum Transformer** | 2.217                | `To be'sut wisr feanst ans...`             |
-| **Classical Transformer** | 2.178                | `To ber. hathe whe,, Whe Win...`           |
+| **Quantum Transformer** | 2.217                | `To be, Wond thans hous ato ay wavend thepr rpathee of i`             |
+| **Classical Transformer** | 2.178                | `To bean, anscMrncoo uf heaknd we Dof ille An the rat  l`           |
 
 Both models demonstrate learning and sequence generation. Quantum attention performs **competitively** and creatively, even with minimal parameter tuning.
 
